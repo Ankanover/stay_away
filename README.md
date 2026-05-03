@@ -127,7 +127,3 @@ For a production app, you must:
 1. Eject from Expo managed workflow (or use custom dev clients)
 2. Write native Java/Kotlin (Android) and Swift (iOS) modules
 3. Handle runtime permissions gracefully
-
-## License
-
-MIT
